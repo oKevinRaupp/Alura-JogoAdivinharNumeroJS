@@ -1,5 +1,5 @@
 # Alura-JogoAdivinharNumeroJS
 
-Projeto criado em parceria da Alura com Oracle, no programa ONE!
+Projeto desenvolvido durante o Programa ONE (Oracle Next Education) em parceria da Alura com a Oracle!
 
 <a href="https://adivinhar-numero-eight.vercel.app/">Testar o jogo</a>
